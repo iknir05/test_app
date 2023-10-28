@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 
 Adding one more line to test git status command
+test 2
